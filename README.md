@@ -56,9 +56,6 @@ Check out my GitHub for some of my projects. Feel free to connect with me on Lin
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Nathaniel81&theme=gruvbox&border_radius=4.5) -->
 
-#
-
-### hhh
 
 <details markdown="1">
  <summary><h3>👨‍💻 Nathaniel's Coding Journey</h3></summary>
