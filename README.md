@@ -13,15 +13,12 @@ Check out my GitHub for some of my projects. Feel free to connect with me on Lin
       <a href="https://linkedin.com/in/nathanieldemissie" target="_blank">
          <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
       </a>
-<!--       <a href="https://medium.com/" target="_blank">
-         <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-      </a> -->
-      <a href="https://discord.com/nate_d9" target="_blank">
+      <a href="https://discord.com/users/988749033294143488" target="_blank">
          <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" style="margin-bottom: 5px;" alt="discord logo"  />
       </a>
-      <a href="mailto:nathanield356@gmail.com" target="_blank">
-         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" style="margin-bottom: 5px;" alt="gmail logo"  />
-      </a>
+   <a href="mailto:nathanield356@gmail.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" style="margin-bottom: 5px;" alt="gmail logo"  />
+   </a>
    </p>
 
 ---
@@ -49,7 +46,7 @@ Check out my GitHub for some of my projects. Feel free to connect with me on Lin
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathaniel81&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=5&theme=dracula&hide_border=false" height="420" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathaniel81&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="320" alt="languages graph"  />
 </div>
 
 ###
