@@ -57,12 +57,15 @@ Check out my GitHub for some of my projects. Feel free to connect with me on Lin
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Nathaniel81&theme=gruvbox&border_radius=4.5) -->
 
 
-<details markdown="1">
- <summary><h3>👨‍💻 Nathaniel's Coding Journey</h3></summary>
+<details>
+ <summary>👨‍💻 Nathaniel's Coding Journey</summary>
    My coding journey began during my time as an electro-mechanical engineering student at Addis Ababa Science and Technology University. It was during a C++ course in my second year that I discovered my passion for coding.
+
    After graduating, I embarked on an intensive one-year journey with the ALX Software Engineering program. Specializing in backend development, I honed my skills and solidified my expertise in crafting robust solutions.
+
    Throughout this journey, my interest in technology has only deepened. While my background lies in electro-mechanical engineering, my heart belongs to coding and software development. I'm determined to continue pushing boundaries, exploring new technologies, and pursuing my dreams in the realm of software engineering.
 </details>
+
 
 
 [website]: https://
