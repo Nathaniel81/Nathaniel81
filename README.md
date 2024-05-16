@@ -31,8 +31,6 @@ Check out my GitHub for some of my projects. Feel free to connect with me on Lin
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -60,12 +58,14 @@ Check out my GitHub for some of my projects. Feel free to connect with me on Lin
 
 #
 
-<details>
+<details markdown="1">
  <summary><h3>👨‍💻 Nathaniel's Coding Journey</h3></summary>
    My coding journey began during my time as an electro-mechanical engineering student at Addis Ababa Science and Technology University. It was during a C++ course in my second year that I discovered my passion for coding.
 
    After graduating, I embarked on an intensive one-year journey with the ALX Software Engineering program. Specializing in backend development, I honed my skills and solidified my expertise in crafting robust solutions.
 
    Throughout this journey, my interest in technology has only deepened. While my background lies in electro-mechanical engineering, my heart belongs to coding and software development. I'm determined to continue pushing boundaries, exploring new technologies, and pursuing my dreams in the realm of software engineering.
+</details>
+
 
 [website]: https://
