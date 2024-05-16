@@ -19,7 +19,7 @@ Check out my GitHub for some of my projects. Feel free to connect with me on Lin
       <a href="https://discord.com/nate_d9" target="_blank">
          <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" style="margin-bottom: 5px;" alt="discord logo"  />
       </a>
-      <a href="https://gmail.com/nathanield356@gmail.com" target="_blank">
+      <a href="mailto:nathanield356@gmail.com" target="_blank">
          <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" style="margin-bottom: 5px;" alt="gmail logo"  />
       </a>
    </p>
