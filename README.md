@@ -13,13 +13,13 @@ Check out my GitHub for some of my projects. Feel free to connect with me on Lin
       <a href="https://linkedin.com/in/nathanieldemissie" target="_blank">
          <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
       </a>
-      <a href="https://medium.com/" target="_blank">
+<!--       <a href="https://medium.com/" target="_blank">
          <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-      </a>
-      <a href="https://medium.com/" target="_blank">
+      </a> -->
+      <a href="https://discord.com/nate_d9" target="_blank">
          <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" style="margin-bottom: 5px;" alt="discord logo"  />
       </a>
-      <a href="https://medium.com/" target="_blank">
+      <a href="https://gmail.com/nathanield356@gmail.com" target="_blank">
          <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" style="margin-bottom: 5px;" alt="gmail logo"  />
       </a>
    </p>
@@ -59,11 +59,11 @@ Check out my GitHub for some of my projects. Feel free to connect with me on Lin
 
 <details>
  <summary>👨‍💻 Nathaniel's Coding Journey</summary>
-   My coding journey began during my time as an electro-mechanical engineering student at Addis Ababa Science and Technology University. It was during a C++ course in my second year that I discovered my passion for coding.
+   My coding journey began during my time as an Electromechanical engineering student at Addis Ababa Science and Technology University. It was during a C++ course in my second year that I discovered my passion for coding.
 
    After graduating, I embarked on an intensive one-year journey with the ALX Software Engineering program. Specializing in backend development, I honed my skills and solidified my expertise in crafting robust solutions.
 
-   Throughout this journey, my interest in technology has only deepened. While my background lies in electro-mechanical engineering, my heart belongs to coding and software development. I'm determined to continue pushing boundaries, exploring new technologies, and pursuing my dreams in the realm of software engineering.
+   Throughout this journey, my interest in technology has only deepened. While my background lies in Electromechanical engineering, my heart belongs to coding and software development. I'm determined to continue pushing boundaries, exploring new technologies, and pursuing my dreams in the realm of software engineering.
 </details>
 
 
