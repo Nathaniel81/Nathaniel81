@@ -58,6 +58,8 @@ Check out my GitHub for some of my projects. Feel free to connect with me on Lin
 
 #
 
+### hhh
+
 <details markdown="1">
  <summary><h3>👨‍💻 Nathaniel's Coding Journey</h3></summary>
    My coding journey began during my time as an electro-mechanical engineering student at Addis Ababa Science and Technology University. It was during a C++ course in my second year that I discovered my passion for coding.
