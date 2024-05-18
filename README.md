@@ -46,13 +46,14 @@ Check out my GitHub for some of my projects. Feel free to connect with me on Lin
 
 #
 
-### 📊 Stats
+<!-- ### 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathaniel81&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="320" alt="languages graph"  />
 </div>
 
 ###
+-->
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Nathaniel81&theme=gruvbox&border_radius=4.5) -->
 
